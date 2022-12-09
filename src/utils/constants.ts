@@ -1,0 +1,15 @@
+export enum Routes {
+  SIGN_IN = "signIn",
+  SIGN_UP = "signUp",
+  VERIFY_ACCOUNT = "verifyAccount",
+  FORGOT_PASSWORD = "forgotPassword",
+  SET_PASSWORD = "setPassword",
+  SET_PASSCODE = "setPassCode",
+  CONFIRM_PASSCODE = "confirmPasscode",
+  SUCCESS = "sucess",
+  DEFAULT_SIGN = "defaultSign",
+  RESET_PASSWORD = "reset",
+  CHANGE_DEVICE = "changeDevice",
+  ENTER_PHONE = "enterPhone",
+  ENTER_TRANSACTION_PIN = "enterTransactionPin",
+}
